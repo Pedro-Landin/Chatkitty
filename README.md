@@ -29,3 +29,23 @@ expo install @react-navigation/native @react-navigation/stack react-native-reani
 *******
 
 Pré requisitos para instalar as dependencias acima é ter o node e o npm instalado
+
+# Demonstração
+## Login
+<h1 align="center">
+	<img src="https://github.com/Pedro-Landin/Chatkitty/blob/main/videos/Login.gif"  />
+</h1>
+
+## Chat RealTime
+<h1 align="center">
+	<img src="https://github.com/Pedro-Landin/Chatkitty/blob/main/videos/Conversa.gif"  />
+</h1>
+
+## Saindo e Criando canal
+<h1 align="center">
+	<img src="https://github.com/Pedro-Landin/Chatkitty/blob/main/videos/Saindo-e-criando.gif"  />
+</h1>
+
+
+
+
