@@ -1,6 +1,6 @@
 # Chatkitty
 
-Chat em tempo real desenvolvido com React Native, usando expo para testa as telas. Firebase e ChatKitty, para backend. 
+Chat em tempo real desenvolvido com React Native, usando expo para testar as telas. Firebase e ChatKitty, para backend. 
 
 # Dependência
 ## Instalando Firebase
